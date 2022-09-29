@@ -3,7 +3,9 @@
 This repository contains analysis of laptop data that has scrapped from Filpkart.
 
 Insights from Exploratory Analysis are:
-Laptop with Intel CPUs are more expensive
+
+* Laptop with Intel CPUs are more expensive
+
 Most of the laptops have 8 GB ram
 Most laptops have 15.6 inches
 every GB of RAM added on the PC adds roughly 7898₹ to the laptop value.
